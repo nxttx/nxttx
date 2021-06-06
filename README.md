@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ⚛React native
 - 📫 How to reach me: [website](https://robertboudewijn.nl)
 
-
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nxttx&layout=compact&exclude_repo=IProjectG18EenmaalAndermaal,AIM-OOSE)<br>
 [![nxttx's Github Stats](https://github-readme-stats.vercel.app/api?username=nxttx&count_private=true&show_icons=true)](https://github.com/nxttx)<br>
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nxttx&layout=compact&exclude_repo=IProjectG18EenmaalAndermaal,AIM-OOSE)
+
