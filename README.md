@@ -13,8 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- 🔭 I’m currently working on RunconnectEde
 - 🌱 I’m currently learning ⚛React native
+- 💬 Ask me about:
+- - 🏃‍♂️💨 running long and short distances
+- - ⚛react and NodeJS
 - 📫 How to reach me: [website](https://robertboudewijn.nl)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nxttx&layout=compact&exclude_repo=IProjectG18EenmaalAndermaal,AIM-OOSE)<br>
