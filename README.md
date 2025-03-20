@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning about Deep learning 
+- 🌱 I’m currently learning about radio frequencies and a ham licence.
 - 📫 How to reach me: [website](https://robertboudewijn.nl)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nxttx&layout=compact&exclude_repo=IProjectG18EenmaalAndermaal,AIM-OOSE,Embedded---Plastics-classifier)<br>
